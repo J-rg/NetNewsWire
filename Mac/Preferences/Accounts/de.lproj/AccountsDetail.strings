@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "On My Mac"; ObjectID = "6yI-bV-1Sh"; */
+"6yI-bV-1Sh.title" = "On My Mac";
+
+/* Class = "NSTabViewItem"; label = "Account Information"; ObjectID = "35c-I3-wfs"; */
+"35c-I3-wfs.label" = "Account-Informationen";
+
+/* Class = "NSTextFieldCell"; title = "The name appears in the sidebar. It can be anything you want. You can even use emoji. 🎸"; ObjectID = "MW0-mH-Gaa"; */
+"MW0-mH-Gaa.title" = "Der Name erscheint in der Seitenleiste. Du kannst ihn frei wählen. Du kannst sogar Emojis benutzen. 🎸";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "tC5-Vt-gBc"; */
+"tC5-Vt-gBc.title" = "Art:";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "uyQ-Zi-QCr"; */
+"uyQ-Zi-QCr.title" = "Name:";
+
+/* Class = "NSButtonCell"; title = "Credentials"; ObjectID = "vYg-ZC-o4W"; */
+"vYg-ZC-o4W.title" = "Anmeldedaten";
+
+/* Class = "NSButtonCell"; title = "Active"; ObjectID = "wxB-dX-nGt"; */
+"wxB-dX-nGt.title" = "Aktiviert";
+

@@ -1,0 +1,18 @@
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "7g8-Kk-ISg"; */
+"7g8-Kk-ISg.title" = "Passwort:";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "DqN-SV-v35"; */
+"DqN-SV-v35.title" = "E-Mail:";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Action"; ObjectID = "IMO-YT-k9Z"; */
+"IMO-YT-k9Z.title" = "Action";
+
+/* Class = "NSTextFieldCell"; title = "Feed Wrangler"; ObjectID = "ras-dj-nP8"; */
+"ras-dj-nP8.title" = "Feed Wrangler";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "ufs-ar-BAY"; */
+"ufs-ar-BAY.title" = "Abbrechen";
+

@@ -1,0 +1,123 @@
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "1F7-qu-7oN"; */
+"1F7-qu-7oN.title" = "Item 2";
+
+/* Class = "NSToolbarItem"; label = "Search"; ObjectID = "1Ql-WJ-KYi"; */
+"1Ql-WJ-KYi.label" = "Suchen";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Search"; ObjectID = "1Ql-WJ-KYi"; */
+"1Ql-WJ-KYi.paletteLabel" = "Suchen";
+
+/* Class = "NSToolbarItem"; toolTip = "Search Articles"; ObjectID = "1Ql-WJ-KYi"; */
+"1Ql-WJ-KYi.toolTip" = "Artikel durchsuchen";
+
+/* Class = "NSToolbarItem"; label = "Reader"; ObjectID = "6Vm-OW-3mR"; */
+"6Vm-OW-3mR.label" = "Reader";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Reader"; ObjectID = "6Vm-OW-3mR"; */
+"6Vm-OW-3mR.paletteLabel" = "Reader";
+
+/* Class = "NSToolbarItem"; toolTip = "Reader View"; ObjectID = "6Vm-OW-3mR"; */
+"6Vm-OW-3mR.toolTip" = "Reader-Darstellung";
+
+/* Class = "NSOutlineView"; ibExternalAccessibilityDescription = "Feeds"; ObjectID = "cnV-kg-Dn2"; */
+"cnV-kg-Dn2.ibExternalAccessibilityDescription" = "Feeds";
+
+/* Class = "NSTextFieldCell"; title = "HEADER CELL"; ObjectID = "dRB-0K-qxz"; */
+"dRB-0K-qxz.title" = "HEADER CELL";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "dVE-XG-mlU"; */
+"dVE-XG-mlU.title" = "Label";
+
+/* Class = "NSToolbarItem"; label = "Star"; ObjectID = "Gxg-WQ-ufC"; */
+"Gxg-WQ-ufC.label" = "Als Favorit markieren";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Star"; ObjectID = "Gxg-WQ-ufC"; */
+"Gxg-WQ-ufC.paletteLabel" = "Als Favorit markieren";
+
+/* Class = "NSToolbarItem"; toolTip = "Star or Unstar"; ObjectID = "Gxg-WQ-ufC"; */
+"Gxg-WQ-ufC.toolTip" = "Star or Unstar";
+
+/* Class = "NSWindow"; title = "NetNewsWire"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "NetNewsWire";
+
+/* Class = "NSToolbarItem"; label = "Mark All as Read"; ObjectID = "lst-vn-0Iw"; */
+"lst-vn-0Iw.label" = "Alle als gelesen markieren";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Mark All as Read"; ObjectID = "lst-vn-0Iw"; */
+"lst-vn-0Iw.paletteLabel" = "Alle als gelesen markieren";
+
+/* Class = "NSToolbarItem"; toolTip = "Mark All as Read"; ObjectID = "lst-vn-0Iw"; */
+"lst-vn-0Iw.toolTip" = "Alle als gelesen markieren";
+
+/* Class = "NSToolbarItem"; label = "Mark Read"; ObjectID = "N7D-g2-EPD"; */
+"N7D-g2-EPD.label" = "Als gelesen markieren";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Mark Read"; ObjectID = "N7D-g2-EPD"; */
+"N7D-g2-EPD.paletteLabel" = "Als gelesen markieren";
+
+/* Class = "NSToolbarItem"; toolTip = "Mark Read or Unread"; ObjectID = "N7D-g2-EPD"; */
+"N7D-g2-EPD.toolTip" = "Mark Read or Unread";
+
+/* Class = "NSToolbarItem"; label = "Share"; ObjectID = "nv0-Ju-lP7"; */
+"nv0-Ju-lP7.label" = "Teilen";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Share"; ObjectID = "nv0-Ju-lP7"; */
+"nv0-Ju-lP7.paletteLabel" = "Teilen";
+
+/* Class = "NSToolbarItem"; toolTip = "Share"; ObjectID = "nv0-Ju-lP7"; */
+"nv0-Ju-lP7.toolTip" = "Teilen";
+
+/* Class = "NSToolbarItem"; label = "Next Unread"; ObjectID = "p7Y-Vm-ILH"; */
+"p7Y-Vm-ILH.label" = "Nächster ungelesener Artikel";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Next Unread"; ObjectID = "p7Y-Vm-ILH"; */
+"p7Y-Vm-ILH.paletteLabel" = "Nächster ungelesener Artikel";
+
+/* Class = "NSToolbarItem"; toolTip = "Go to Next Unread"; ObjectID = "p7Y-Vm-ILH"; */
+"p7Y-Vm-ILH.toolTip" = "Gehe zum nächsten ungelesenen Artikel";
+
+/* Class = "NSToolbarItem"; label = "Refresh"; ObjectID = "QD0-SQ-OIM"; */
+"QD0-SQ-OIM.label" = "Aktualisieren";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Refresh"; ObjectID = "QD0-SQ-OIM"; */
+"QD0-SQ-OIM.paletteLabel" = "Aktualisieren";
+
+/* Class = "NSToolbarItem"; toolTip = "Refresh"; ObjectID = "QD0-SQ-OIM"; */
+"QD0-SQ-OIM.toolTip" = "Aktualisieren";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "r9E-FO-GoU"; */
+"r9E-FO-GoU.title" = "Item 3";
+
+/* Class = "NSToolbarItem"; label = "New Feed"; ObjectID = "Skp-5r-70Q"; */
+"Skp-5r-70Q.label" = "Neuer Feed";
+
+/* Class = "NSToolbarItem"; paletteLabel = "New Feed"; ObjectID = "Skp-5r-70Q"; */
+"Skp-5r-70Q.paletteLabel" = "Neuer Feed";
+
+/* Class = "NSToolbarItem"; toolTip = "New Feed"; ObjectID = "Skp-5r-70Q"; */
+"Skp-5r-70Q.toolTip" = "Neuer Feed";
+
+/* Class = "NSToolbarItem"; label = "New Folder"; ObjectID = "st0-Wp-nPK"; */
+"st0-Wp-nPK.label" = "Neuer Ordner";
+
+/* Class = "NSToolbarItem"; paletteLabel = "New Folder"; ObjectID = "st0-Wp-nPK"; */
+"st0-Wp-nPK.paletteLabel" = "Neuer Ordner";
+
+/* Class = "NSToolbarItem"; toolTip = "New Folder"; ObjectID = "st0-Wp-nPK"; */
+"st0-Wp-nPK.toolTip" = "Neuer Ordner";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "sXh-y7-12P"; */
+"sXh-y7-12P.title" = "Text Cell";
+
+/* Class = "NSToolbarItem"; label = "Open in Browser"; ObjectID = "tid-SB-me3"; */
+"tid-SB-me3.label" = "Im Browser öffnen";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Open in Browser"; ObjectID = "tid-SB-me3"; */
+"tid-SB-me3.paletteLabel" = "Im Browser öffnen";
+
+/* Class = "NSToolbarItem"; toolTip = "Open in Browser"; ObjectID = "tid-SB-me3"; */
+"tid-SB-me3.toolTip" = "Im Browser öffnen";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "ZDH-CV-Y2s"; */
+"ZDH-CV-Y2s.title" = "Item 1";
+

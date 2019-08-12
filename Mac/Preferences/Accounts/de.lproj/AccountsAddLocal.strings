@@ -1,0 +1,18 @@
+/* Class = "NSTextFieldCell"; title = "On My Mac"; ObjectID = "1d2-Mx-TKe"; */
+"1d2-Mx-TKe.title" = "On My Mac";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "AVh-ns-LEN"; */
+"AVh-ns-LEN.title" = "Name:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "iVd-bO-4LN"; */
+"iVd-bO-4LN.title" = "Abbrechen";
+
+/* Class = "NSButtonCell"; title = "Create"; ObjectID = "oih-6c-KbS"; */
+"oih-6c-KbS.title" = "Erstellen";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Window";
+
+/* Class = "NSTextFieldCell"; title = "This account stores all of its data on your Mac. It does not sync."; ObjectID = "wfr-Dv-UIF"; */
+"wfr-Dv-UIF.title" = "Alle Daten dieses Accounts werden lokal auf deinem Mac gesichert. Eine Synchronisierung findet nicht statt.";
+

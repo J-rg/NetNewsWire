@@ -1,0 +1,9 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Feed abonnieren";
+
+/* Bundle name */
+"CFBundleName" = "Feed abonnieren";
+
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Copyright © 2019 Ranchero Software. Alle Rechte vorbehalten.";
+

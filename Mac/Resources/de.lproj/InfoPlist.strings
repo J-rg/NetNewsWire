@@ -1,0 +1,9 @@
+/* Bundle name */
+"CFBundleName" = "NetNewsWire";
+
+/* Privacy - AppleEvents Sending Usage Description */
+"NSAppleEventsUsageDescription" = "NetNewsWire kommuniziert mit anderen Apps auf deinem Mac, wenn du einen Artikel zum Teilen auswählst.";
+
+/* Copyright (human-readable) */
+"NSHumanReadableCopyright" = "Copyright © 2002-2019 Brent Simmons. Alle Rechte vorbehalten.";
+

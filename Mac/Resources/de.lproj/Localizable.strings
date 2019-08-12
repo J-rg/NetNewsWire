@@ -1,0 +1,275 @@
+/* Preferences default RSS Reader popup */
+"(old version)" = "(alte Version)";
+
+/* Preferences default RSS Reader popup */
+"(this app)" = "(diese App)";
+
+/* Status bar progress */
+"%@ of %@" = "%1$@ von %2$@";
+
+/* Preferences */
+"Accounts" = "Accounts";
+
+/* Preferences */
+"Advanced" = "Erweitert";
+
+/* All Unread pseudo-feed title */
+"All Unread" = "Ungelesen";
+
+/* Feed finder */
+"Already subscribed" = "Bereits abonniert";
+
+/* Delete text */
+"Are you sure you want to delete the account “(acctName)”? This cannot be undone." = "Möchtest du den Account „(acctName)“ wirklich löschen? Diese Aktion kann nicht widerrufen werden.";
+
+/* Article */
+"Article" = "Artikel";
+
+/* Feed finder */
+"Can’t add a feed because no feed was found." = "Der Feed konnte nicht hinzugefügt werden, da er nicht gefunden wurde.";
+
+/* Feed finder */
+"Can’t add this feed because of a download error: “%@”" = "Der Feed konnte aufgrund eines Fehlers beim Herunterladen nicht hinzugefügt werden: „%@“";
+
+/* Feed finder */
+"Can’t add this feed because you’ve already subscribed to it." = "Der Feed konnte nicht hinzugefügt werden, da er bereits abonniert wurde.";
+
+/* Cancel Delete Account */
+"Cancel" = "Abbrechen";
+
+/* Export OPML */
+"Choose a location for the exported OPML file." = "Wähle einen Ort für die zu exportierende OPML-Datei aus.";
+
+/* NNW3 Import */
+"Choose a Subscriptions.plist file:" = "Subscriptions.plist-Datei auswählen:";
+
+/* Command */
+"Copy Feed URL" = "Feed-Adresse kopieren";
+
+/* Command */
+"Copy Home Page URL" = "Homepage-Adresse kopieren";
+
+/* Create */
+"Create" = "Erstellen";
+
+/* Command
+   command
+   Delete
+   Delete Account */
+"Delete" = "Löschen";
+
+/* command */
+"Delete Feed" = "Feed löschen";
+
+/* command */
+"Delete Feeds" = "Feeds löschen";
+
+/* command */
+"Delete Feeds and Folders" = "Feeds und Ordner löschen";
+
+/* command */
+"Delete Folder" = "Ordner löschen";
+
+/* command */
+"Delete Folders" = "Ordner löschen";
+
+/* Feed finder */
+"Download Error" = "Fehler beim Herunterladen";
+
+/* Every 2 Hours */
+"Every 2 Hours" = "Alle 2 Stunden";
+
+/* Every 4 Hours */
+"Every 4 Hours" = "Alle 4 Stunden";
+
+/* Every 8 Hours */
+"Every 8 Hours" = "Alle 8 Stunden";
+
+/* Every 10 Minutes */
+"Every 10 Minutes" = "Alle 10 Minuten";
+
+/* Every 30 Minutes */
+"Every 30 Minutes" = "Alle 30 Minuten";
+
+/* Every Hour */
+"Every Hour" = "Stündlich";
+
+/* Export OPML */
+"Export OPML" = "OPML exportieren";
+
+/* Export OPML */
+"Export to:" = "Exportiere als:";
+
+/* Feed finder */
+"Feed not found" = "Feed nicht gefunden";
+
+/* Feed Wrangler */
+"Feed Wrangler" = "Feed Wrangler";
+
+/* Feedbin */
+"Feedbin" = "Feedbin";
+
+/* Feedly */
+"Feedly" = "Feedly";
+
+/* Feed finder */
+"Finding feed…" = "Feed suchen …";
+
+/* FreshRSS */
+"FreshRSS" = "FreshRSS";
+
+/* Preferences */
+"General" = "Allgemein";
+
+/* Command */
+"Hide Read Articles" = "Gelesene Artikel ausblenden";
+
+/* Command */
+"Hide Read Feeds" = "Gelesene Feeds ausblenden";
+
+/* Menu item */
+"Hide Sidebar" = "Seitenleiste ausblenden";
+
+/* Credentials Error */
+"Invalid API URL." = "Ungültige API-Adresse.";
+
+/* Credentials Error */
+"Invalid email/password combination." = "Ungültige E-Mail/Passwort-Kombination.";
+
+/* window title */
+"Keyboard Shortcuts" = "Kurzbefehle";
+
+/* Credentials Error */
+"Keychain error while storing credentials." = "Schlüsselbund-Fehler beim Sichern der Anmeldedaten.";
+
+/* Article body */
+"Loading…" = "Laden …";
+
+/* Manually */
+"Manually" = "Manuell";
+
+/* Command */
+"Mark All as Read" = "Alle als gelesen markieren";
+
+/* Command */
+"Mark All as Read in “%@”" = "Alle in „%@“ als gelesen markieren";
+
+/* Command */
+"Mark as Read" = "Als gelesen markieren";
+
+/* Command */
+"Mark as Starred" = "Als Favorit markieren";
+
+/* Command */
+"Mark as Unread" = "Als ungelesen markieren";
+
+/* Command */
+"Mark as Unstarred" = "Nicht als Favorit markieren";
+
+/* Command */
+"Mark Older as Read" = "Ältere als gelesen markieren";
+
+/* command */
+"Mark Read" = "Als gelesen markieren";
+
+/* command */
+"Mark Starred" = "Als Favorit markieren";
+
+/* command */
+"Mark Unread" = "Als ungelesen markieren";
+
+/* command */
+"Mark Unstarred" = "Nicht als Favorit markieren";
+
+/* Article body */
+"Multiple selection" = "Mehrere Artikel ausgewählt";
+
+/* Credentials Error */
+"Network error. Try again later." = "Netzwerkfehler. Versuche es später erneut.";
+
+/* Command */
+"New Feed" = "Neuer Feed";
+
+/* Command */
+"New Folder" = "Neuer Ordner";
+
+/* Article body */
+"No selection" = "Keinen Artikel ausgewählt";
+
+/* Preferences default RSS Reader popup */
+"None" = "Keiner";
+
+/* Command */
+"Open Home Page" = "Homepage öffnen";
+
+/* Command */
+"Open in Browser" = "Im Browser öffnen";
+
+/* Command */
+"Rename" = "Umbenennen";
+
+/* Rename sheet */
+"Rename %@ to:" = "%@ umbenennen in:";
+
+/* Search smart feed title prefix */
+"Search: " = "Suchen: ";
+
+/* See articles in Folder */
+"See articles in “%@”" = "Artikel in „%@“ anzeigen";
+
+/* First Unread */
+"See first unread article" = "Ersten ungelesenen Artikel anzeigen";
+
+/* Command */
+"Select “%@” in Sidebar" = "„%@“ in Seitenleiste auswählen";
+
+/* Share menu name */
+"Share" = "Teilen";
+
+/* Command */
+"Show Read Articles" = "Gelesene Artikel einblenden";
+
+/* Command */
+"Show Read Feeds" = "Gelesene Feeds einblenden";
+
+/* Menu item */
+"Show Sidebar" = "Seitenleiste einblenden";
+
+/* Smart Feeds group title */
+"Smart Feeds" = "Intelligente Feeds";
+
+/* Starred pseudo-feed title */
+"Starred" = "Favoriten";
+
+/* Timeline */
+"Timeline" = "Artikelliste";
+
+/* Today pseudo-feed title */
+"Today" = "Heute";
+
+/* command */
+"Undelete" = "Wiederherstellen";
+
+/* Unread label for accessiblity */
+"unread" = "ungelesen";
+
+/* Update */
+"Update" = "Aktualisieren";
+
+/* Credentials Error */
+"Username & password required." = "Benutzername und Passwort erforderlich.";
+
+/* Credentials Error */
+"Username, password & API URL are required." = "Benutzername, Passwort und API-Adresse erforderlich.";
+
+"On My Mac" = "Auf meinem Mac";
+
+"Untitled" = "Ohne Titel";
+
+"This app" = "Diese App";
+
+"%@ was moved or renamed while open." = "%@ wurde im geöffneten Zustand bewegt oder umbenannt.";
+
+"Moving an open application can cause unexpected behavior. Relaunch the application to continue." = "Ein geöffnetes Programm zu bewegen kann zu unerwünschtem Verhalten führen. Starte die App neu, um fortzufahren.";
+
+"Relaunch" = "Neu starten";

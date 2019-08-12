@@ -1,0 +1,24 @@
+/* Class = "NSButtonCell"; title = "Send Crash Log"; ObjectID = "7ot-Ev-JTY"; */
+"7ot-Ev-JTY.title" = "Bericht senden";
+
+/* Class = "NSButtonCell"; title = "Don’t Send"; ObjectID = "gzj-Vz-pdb"; */
+"gzj-Vz-pdb.title" = "Nicht senden";
+
+/* Class = "NSButtonCell"; title = "Send crash reports automatically"; ObjectID = "hsB-Hx-Fgs"; */
+"hsB-Hx-Fgs.title" = "Fehlerberichte automatisch senden";
+
+/* Class = "NSTextFieldCell"; title = "NetNewsWire Crash Log Found"; ObjectID = "k6r-PA-hYf"; */
+"k6r-PA-hYf.title" = "NetNewsWire-Fehlerbericht gefunden";
+
+/* Class = "NSButtonCell"; title = "Privacy Policy"; ObjectID = "mMg-qO-UGu"; */
+"mMg-qO-UGu.title" = "Datenschutz";
+
+/* Class = "NSTextFieldCell"; title = "You can skip this window in the future by telling NetNewsWire to automatically send crash logs. You can also turn this setting on and off in the Preferences window, in the Advanced section."; ObjectID = "nou-5k-c1U"; */
+"nou-5k-c1U.title" = "Du kannst dieses Fenster in Zukunft überspringen, indem du NetNewsWire Fehlerberichte automatisch übermitteln lässt. Du kannst diese Option auch in den Einstellungen under „Erweitert“ ein- oder ausschalten.";
+
+/* Class = "NSTextFieldCell"; title = "To help us fix crashing bugs, click Send Crash Log. Below is the text that will be sent to Brent. No other information will be sent."; ObjectID = "O6E-xl-G55"; */
+"O6E-xl-G55.title" = "Sende einen Bericht, um uns bei der Fehlerbehebung zu helfen. Nur der folgende Text wird gesendet, weitere Daten werden nicht übermittelt.";
+
+/* Class = "NSWindow"; title = "Crash Log Reporter"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Fehlerberichterstattung";
+
