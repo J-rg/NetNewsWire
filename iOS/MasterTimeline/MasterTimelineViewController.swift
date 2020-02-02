@@ -583,10 +583,12 @@ private extension MasterTimelineViewController {
 		
 		if coordinator.isReadArticlesFiltered {
 			filterButton?.image = AppAssets.filterActiveImage
-			filterButton?.accLabelText = NSLocalizedString("Selected - Filter Read Articles", comment: "Selected - Filter Read Articles")
+			filterButton?.accLabelText = NSLocalizedString("Filter Read Articles", comment: "Filter Read Articles")
+			filterButton?.accessibilityTraits = UIAccessibilityTraits.selected
 		} else {
 			filterButton?.image = AppAssets.filterInactiveImage
 			filterButton?.accLabelText = NSLocalizedString("Filter Read Articles", comment: "Filter Read Articles")
+			filterButton?.accessibilityTraits = UIAccessibilityTraits.none
 		}
 
 		tableView.selectRow(at: nil, animated: false, scrollPosition: .top)
